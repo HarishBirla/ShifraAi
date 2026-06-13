@@ -1,6 +1,6 @@
-
-# 🚀 ShifraAI
-
+<div align="center">
+<h1> 🚀 ShifraAI</h1>
+</div>div
 
 <div align="center">
 
@@ -295,8 +295,8 @@ git push origin feature/new-feature
 
 Computer Science Engineer | Full Stack Developer | AI Enthusiast
 
-- GitHub: https://github.com/yourusername
-- LinkedIn: https://linkedin.com/in/yourprofile
+- Email: birlaharish3@gmail.com
+- LinkedIn: https://www.linkedin.com/in/harish-birla-42523627b/
 
 ---
 
