@@ -1,6 +1,6 @@
 <div align="center">
 <h1> 🚀 ShifraAI</h1>
-</div>div
+</div>
 
 <div align="center">
 
